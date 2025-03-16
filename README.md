@@ -22,4 +22,4 @@ The HTML file was validated using the W3C Validator. Below is a screenshot of th
 ![Validation Screenshot](validation.png)  
 
 ## Live Page  
-[View on GitHub Pages]()
+[View on GitHub Pages](https://cyrylretuta.github.io/laboratory-1/)
